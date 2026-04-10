@@ -4,7 +4,7 @@
 
 ## 플레이
 
-**[▶ 플레이하기](https://on1659.github.io/breakout)**
+**[▶ 플레이하기](https://on1659.github.io/smilelock_sample/)**
 
 ## 게임 규칙
 
